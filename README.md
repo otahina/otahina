@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otahina&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otahina&theme=dracula" alt="Trophies" />
-</p>
-
 <h1 align="center">Welcome 👋, I'm Ota Hina!</h1>
 <h3 align="center">A junior developer majoring in Computer Science, fueled by creativity and enthusiasm</h3>
 
@@ -46,6 +38,14 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=otahina&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=otahina&theme=dracula" alt="Trophies" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otahina&show_icons=true&locale=en&layout=compact" alt="otahina" />
