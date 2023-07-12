@@ -2,9 +2,6 @@
 <h3 align="center">A junior developer majoring in Computer Science, fueled by creativity and enthusiasm</h3>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otahina&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
-</p>
 
 - 🔭 Currently working on: [Auto PowerPoint Generator powered by GPT API](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 - 🌱 Currently learning: **Python**
