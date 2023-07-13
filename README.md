@@ -1,5 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Ota Hina!</h1>
-<h3 align="center">A junior developer majoring in Computer Science, fueled by creativity and enthusiasm</h3>
+![Header](./github_header.png)
 
 ---
 
