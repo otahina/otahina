@@ -22,9 +22,6 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 <a href="https://www.leetcode.com/uking1066hina" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uking1066hina" height="30" width="40" />
 </a>
-<a href="mailto:uking1066hina@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="your-email@example.com" height="30" width="40" />
-</a>
 
 ---
 
