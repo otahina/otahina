@@ -10,7 +10,7 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 ## Currently learning 🌱
 
-<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=tag&related_id=5968350">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40">
 
 
 - 🌱 Currently learning: **Python**
