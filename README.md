@@ -8,16 +8,11 @@
 
 Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
+**Looking for help to collaborate with this project! Feel free to join, and give me the advice! 😀
+
 ## Currently learning 🌱
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
-
-
-- 🤝 Looking for help with: [my main project](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
-- 📫 How to reach me: **uking1066hina@gmail.com**
-- ⚡ Fun fact: I think I love coding ♡
-
----
 
 <h3 align="center">Let's Connect 🌎</h3>
 
