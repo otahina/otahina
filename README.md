@@ -2,7 +2,11 @@
 
 ---
 
-- 🔭 Currently working on: [Auto PowerPoint Generator powered by GPT-3.5 turbo](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
+## My current project 💡
+
+**[Auto PowerPoint Generator powered by GPT-3.5 turbo] (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)**
+
+
 - 🌱 Currently learning: **Python**
 - 🤝 Looking for help with: [my main project](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 - 📫 How to reach me: **uking1066hina@gmail.com**
