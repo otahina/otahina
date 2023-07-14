@@ -5,6 +5,7 @@
 ## My current project 💡
 
 **Auto PowerPoint Generator powered by GPT-3.5 turbo**
+
 Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 - 🌱 Currently learning: **Python**
