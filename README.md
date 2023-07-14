@@ -8,6 +8,11 @@
 
 Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
+## Currently learning 🌱
+
+<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=tag&related_id=5968350">
+
+
 - 🌱 Currently learning: **Python**
 - 🤝 Looking for help with: [my main project](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 - 📫 How to reach me: **uking1066hina@gmail.com**
