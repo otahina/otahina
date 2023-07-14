@@ -50,7 +50,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&show_icons=true&locale=en" alt="otahina" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otahina&" alt="otahina" />
-</p>
+
 
