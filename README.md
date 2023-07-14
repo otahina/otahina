@@ -22,8 +22,9 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 ---
 
 ## Languages and Tools 🛠
-
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
+  </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" /> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -52,9 +53,6 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
   </a> 
   <a href="https://www.oracle.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
   </a> 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> 
