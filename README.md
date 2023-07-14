@@ -10,7 +10,7 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 ## Currently learning 🌱
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="50">
 
 
 - 🤝 Looking for help with: [my main project](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
