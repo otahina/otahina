@@ -10,6 +10,8 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 **Looking for help to collaborate with this project! Feel free to join, and give me the advice!** 😀
 
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git/issues)
+
 ## Currently learning 🌱
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
