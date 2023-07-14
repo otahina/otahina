@@ -14,7 +14,7 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
 
-<h3 align="center">Let's Connect 🌎</h3>
+## Let's Connect 🌏
 
 <p align="center">
   <a href="https://linkedin.com/in/hina-ota" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinaota" height="30" width="40" /></a>
