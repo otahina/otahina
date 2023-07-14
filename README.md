@@ -10,10 +10,14 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 ## Currently learning 🌱
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="50><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
+<table>
+  <tr>
+    <td><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"></td>
+  </tr>
+</table>
 
 
-- 🌱 Currently learning: **Python**
 - 🤝 Looking for help with: [my main project](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 - 📫 How to reach me: **uking1066hina@gmail.com**
 - ⚡ Fun fact: I think I love coding ♡
