@@ -8,7 +8,7 @@
 
 Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
-**Looking for help to collaborate with this project! Feel free to join, and give me the advice! 😀
+**Looking for help to collaborate with this project! Feel free to join, and give me the advice!** 😀
 
 ## Currently learning 🌱
 
