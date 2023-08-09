@@ -12,7 +12,7 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
-<img src="./main_project_preview.png">
+<img width="1402" alt="project_preview" src="https://github.com/otahina/otahina/assets/108225969/6b060f5f-c2a7-475b-96cd-ec8179a8e761">
 
 ## Currently learning 🌱
 
