@@ -4,8 +4,8 @@
 
 ## Check my website! 👩🏻‍💻
 
-<a href="https://your-website.com">
-  <img src="(https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)" alt="Website">
+<a href="https://otahina.github.io/Mywebsite/">
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website">
 </a>
 
 ## My current project 💡
