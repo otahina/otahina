@@ -85,7 +85,7 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&show_icons=true&locale=en" alt="otahina" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&theme=blue-green" alt="otahina" />
 </p>
 
 
