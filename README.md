@@ -75,17 +75,16 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 
 ---
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&theme=blue-green" alt="otahina" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otahina&theme=blue-green" alt="otahina" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=otahina&theme=dracula" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otahina&show_icons=true&locale=en&layout=compact" alt="otahina" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&theme=blue-green" alt="otahina" />
 </p>
 
 
