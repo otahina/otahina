@@ -1,7 +1,7 @@
 ![Header](./github_banner_profile.png)
 
 ---
-<img src="https://img.shields.io/github/followers/otahina.svg?style=social&label=Follow&maxAge=2592000">
+
 
 ## Check my website! 👩🏻‍💻
 
