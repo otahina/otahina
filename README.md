@@ -21,7 +21,8 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 <img width="1402" alt="project_preview" src="https://github.com/otahina/otahina/assets/108225969/6b060f5f-c2a7-475b-96cd-ec8179a8e761">
 
-### GlobeMarks: 
+### 🗺️ GlobeMarks: Travel-Tracker-FullStack-Project　✈️
+
 
 ## Currently learning 🌱
 
