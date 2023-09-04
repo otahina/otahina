@@ -21,8 +21,12 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 <img width="1402" alt="project_preview" src="https://github.com/otahina/otahina/assets/108225969/6b060f5f-c2a7-475b-96cd-ec8179a8e761">
 
-### 🗺️ GlobeMarks: Travel-Tracker-FullStack-Project　✈️
+### 🗺️ GlobeMarks: Travel-Tracker-FullStack-Project✈️
 
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
+
+Check here! (https://github.com/otahina/Travel-Tracker-FullStack-Project)
 
 ## Currently learning 🌱
 
