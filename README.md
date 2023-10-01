@@ -1,4 +1,4 @@
-![Header](./github_banner_profile.png)
+![Header](https://github.com/otahina/otahina/assets/108225969/3ef27656-4a61-4746-a9fa-424d4e0a361c)
 
 ---
 
