@@ -19,16 +19,6 @@ Check here! (https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40">
 
-
-## Let's Connect 🌏
-
-<a href="https://linkedin.com/in/hina-ota" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinaota" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/uking1066hina" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uking1066hina" height="30" width="40" />
-</a>
-
 ---
 
 ## Languages and Tools 🛠
