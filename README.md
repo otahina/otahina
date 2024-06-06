@@ -2,7 +2,7 @@
 
 ---
 
-## My current project 💡
+## My project 💡
 
 ### Automated PowerPoint Generator powered by GPT-3.5 turbo
 
